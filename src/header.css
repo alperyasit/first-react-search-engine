@@ -1,0 +1,20 @@
+.head {
+    margin: 8px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+form label {
+    padding: 5px;
+    padding-left: 8px;
+}
+
+form input {
+    margin-left: 10px;
+    margin-bottom: 7px;
+}
